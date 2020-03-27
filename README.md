@@ -19,5 +19,5 @@ git clone https://github.com/DeltaStudios05/DecodeCrypto.git
 3. run the program
 cd DecodeCrypto && python3 DecodeCrypto(v.1.1).py
 
-If you are comming from instagram and do not know what to do or are having issues. Reply to the issues section.
-If you are using ios or andriod and still want to try the program, you will have to install Termux from the app store. Then follow the linux steps! If you are here from Instagarm, thanks for stoping by! Bye!
+If you are comming from social media and do not know what to do or are having issues. Reply to the issues section.
+If you are using ios or andriod and still want to try the program, you will have to install Termux from the app store. Then follow the linux steps! Bye!
